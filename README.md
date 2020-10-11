@@ -16,7 +16,7 @@ The Colorado Board of Elections has asked me to complete and audit of their loca
 
 ## Resources
 - Data Source: election_resluts.csv
-- Software: Python 3.9, Visual Studio Code,1.38.1
+- Software: Python 3.9, Visual Studio Code,1.49.3
 
 ## Election Audit Results
 
