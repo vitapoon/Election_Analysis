@@ -61,4 +61,6 @@ Winner of congressional election: Diana DeGette
 
 ![election_analysis_screenshot](https://user-images.githubusercontent.com/71739110/95689801-ee95bf00-0c45-11eb-872c-bd8cbdb283fb.png)
 
+## Summary
 
+This script can be easily modified to fit any type of election. For example, we can change the counties to states for other places' election. Another example is we can change candidates for other kinds of election.
